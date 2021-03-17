@@ -1,0 +1,23 @@
+.container{
+    overflow-x: hidden;
+    margin-top: 350px ;
+    height: 500px;  
+}
+
+.firstComponent{
+    color: rgb(255, 255, 255);
+    width: 50%;
+    background-color: #00af91;
+    font-family: 'Montserrat',sans-serif;
+}
+
+
+.book-icon{
+    transform: scale(4);
+    color:white;
+    margin: 40px 0;
+    }
+
+.schoolNameText{
+    margin-top: 10px;
+}

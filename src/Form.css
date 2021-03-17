@@ -1,0 +1,53 @@
+.formComponent{
+    max-width: 50%;
+    align-items: center;
+    margin-top: 170px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.formInput{
+    box-shadow: #00af91;
+    margin: auto;
+    width: 60%;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 20px; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+.user-icon{
+    color: #00af91; 
+    margin-bottom: 20px;
+    transform: scale(3);
+}
+.form-card{
+    margin: 0 50px;
+    padding: 90px 0px;
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 12px;
+    }
+
+.form-card:hover{
+        transform: scale(1.05);
+        box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+
+}
+.signup-button{
+    color: white;
+    width: 50%;
+    background-color: #00af91;
+    margin-top: 100px;
+    font-weight: 900;
+    border-color: #00af91;
+}
+
+.restore {
+    display: flex;
+    font-family: 'Montserrat',sans-serif;
+    
+}
+.vertical{
+    margin: 0 8px;
+}
+
