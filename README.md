@@ -1,3 +1,9 @@
+# Made a design for admin login
+<img src = "https://github.com/Zubair-droid/school-signup/blob/main/Capture.PNG" alt = ""/>
+
+Live link: https://xenodochial-neumann-eaae13.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
