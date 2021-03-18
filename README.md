@@ -1,5 +1,5 @@
 # Made a design for admin login
-<img src = "https://github.com/Zubair-droid/school-signup/blob/main/Capture.PNG" alt = ""/>
+<img src = "https://github.com/Zubair-droid/school-signup/blob/main/snap.PNG" alt = ""/>
 
 Live link: https://reach-your-skyline.netlify.app/
 
