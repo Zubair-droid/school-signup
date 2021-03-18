@@ -7,17 +7,33 @@
 .firstComponent{
     color: rgb(255, 255, 255);
     width: 50%;
-    background-color: #00af91;
+    background-color: #0c9463;
     font-family: 'Montserrat',sans-serif;
 }
 
 
 .book-icon{
-    transform: scale(4);
+    transform: scale(6);
     color:white;
     margin: 40px 0;
     }
 
 .schoolNameText{
-    margin-top: 10px;
+    margin-top: 30px;
 }
+
+.bounce-out-on-hover {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+  }
+  .bounce-out-on-hover:hover, .bounce-out-on-hover:focus, .bounce-out-on-hover:active {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+    -webkit-transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
+    transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
+  }

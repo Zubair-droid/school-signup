@@ -5,13 +5,13 @@ import SchoolRoundedIcon from '@material-ui/icons/SchoolRounded';
 function First() {
     return (
         <div className = "firstComponent">
-             <div className = "container">
+             <div className = "container bounce-out-on-hover">
            
-             <div className = "icon">
+             <div className = "icon ">
                <SchoolRoundedIcon className = "book-icon" />
              </div>
 
-            <div className = "schoolNameText">
+            <div className = "schoolNameText ">
             <h2 className = "h2Text">Skyline School of Development</h2>
             </div>
            
